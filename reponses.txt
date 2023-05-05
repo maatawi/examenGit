@@ -30,12 +30,6 @@ nous devons utilise
 7) Je suis sur ma Branch1 et je viens d’ajouter un fichier "File2.txt".
 Je change d’avis : je veux finalement ajouter mon fichier à une
 nouvelle branche, "BranchFile". Que dois-je faire ?
-
-	-git status
-	git stash
-	git branch BranchFile
-	git checkout BranchFile
-	git status apply
 	
 	-git status
 	git stash
